@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duczapeter.github.io/sitemap.xml
